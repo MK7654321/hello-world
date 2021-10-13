@@ -3,7 +3,7 @@ Welcome to my first Github project called "Hello World". This repository was cre
 
 # Hello my friend!
 
-_Did you know that...
+_Did you know that_...
 
 1. your shoes are the first thing people subconsciously notice about you. Wear nice shoes.
 
